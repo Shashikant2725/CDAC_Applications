@@ -1,0 +1,31 @@
+.mainBox{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+}
+.form{
+        margin-top: .5%; 
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+}
+.linee{
+        width: 1px;
+        height: 260px;
+        background-color: #707070;
+}
+.inputs{
+        padding-top: 15px;
+        padding-bottom: 15px;
+        font-weight: 800;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+        width: 200px;
+        height: 200px;
+        border: 2px solid #F0F0F0;
+        border-radius: 3px;
+}
+ 

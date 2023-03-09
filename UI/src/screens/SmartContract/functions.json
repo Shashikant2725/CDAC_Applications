@@ -1,0 +1,59 @@
+[
+    {
+        "id":"1",
+      "fname": "Late Delivery And Penalty",
+      "description": "In case of delayed delivery Seller shall pay to Buyer for every day delay penalty",
+      "fullDescription":"In case of delayed delivery Seller shall pay to Buyer for every day delay penalty amounting to 1% of the total value of the Equipment whose delivery has been delayed. Any fractional part of a days is to be considered a full days. The total amount of penalty shall not however,exceed 50.0% of the total value of the Equipment involved in late delivery.If the delay is more than 10 days, the Buyer is entitled to terminate this Contract. By default it takes todays date as delivered date",
+      "version": "1.0.0"
+    },
+    {
+        "id":"2",
+        "fname":"Volume Discount",
+        "description":"If goods value is more than first volume,seller is giving a discount % of firstrate.",
+        "fullDescription":"If goods value is more than first volume,seller is giving a discount % of firstrate.If goods value is in between first volume and second volume seller is giving a discount % of secondrate and if goods value is less than second volume seller is giving a discount % of third rate.",
+        "version":"1.0.0"
+      },
+      {
+        "id":"3",
+        "fname":"Drug Approval By Authority",
+        "description":"Standard authority approves the drug based on the rules",
+        "fullDescription":"Standard authority approves the drug based on the rules",
+        "version":"1.0.0"
+      },
+      {
+        "id":"4",
+        "fname":"Patient Approval By Doctor",
+        "description":"Doctor gets the request from patient for specific disease",
+        "fullDescription":"Doctor gets the request from patient for specific disease, based of the patient symtoms he will prescribe the approved drug",
+        "version":"1.0.0"
+      },
+      {
+        "id":"5",
+      "fname": "Late Delivery And Penalty",
+      "description": "In case of delayed delivery Seller shall pay to Buyer for every day delay penalty",
+      "fullDescription":"In case of delayed delivery Seller shall pay to Buyer for every day delay penalty amounting to 1% of the total value of the Equipment whose delivery has been delayed. Any fractional part of a days is to be considered a full days. The total amount of penalty shall not however,exceed 50.0% of the total value of the Equipment involved in late delivery.If the delay is more than 10 days, the Buyer is entitled to terminate this Contract. By default it takes todays date as delivered date",
+      "version": "1.0.0"
+    },
+    {
+        "id":"6",
+        "fname":"Volume Discount",
+        "description":"If goods value is more than first volume,seller is giving a discount % of firstrate.",
+        "fullDescription":"If goods value is more than first volume,seller is giving a discount % of firstrate.If goods value is in between first volume and second volume seller is giving a discount % of secondrate and if goods value is less than second volume seller is giving a discount % of third rate.",
+        "version":"1.0.0"
+      },
+      {
+        "id":"7",
+        "fname":"Drug Approval By Authority",
+        "description":"Standard authority approves the drug based on the rules",
+        "fullDescription":"Standard authority approves the drug based on the rules",
+        "version":"1.0.0"
+      },
+      {
+        "id":"8",
+        "fname":"Patient Approval By Doctor",
+        "description":"Doctor gets the request from patient for specific disease",
+        "fullDescription":"Doctor gets the request from patient for specific disease, based of the patient symtoms he will prescribe the approved drug",
+        "version":"1.0.0"
+      }
+    
+  ]

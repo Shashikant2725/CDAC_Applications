@@ -1,0 +1,22 @@
+.nbfscriptCss:hover{
+        background-color: white;
+        color: black;
+        cursor: pointer;
+}
+.nbfscriptCss{
+        background-color: transparent;
+        color: white;
+        border-radius: 10px 0px 0px 10px;
+        width: 100%;
+        height: 11.5%;
+        border: none;
+        font-size: 15px;
+        margin-left: 6%;
+        padding-left: 0px;
+        display: flex;
+        align-items: center;
+} 
+.nbfscriptCssActive{
+        background-color: white;
+        color:black
+    } 

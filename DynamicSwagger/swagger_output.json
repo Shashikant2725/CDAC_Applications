@@ -1,0 +1,69 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "Generic APIs for Testing Functionality",
+    "description": "Using this API we can execute functions",
+    "version": "2.0.0",
+    "schemes": [],
+    "consumes": [],
+    "produces": []
+  },
+  "host": "10.244.3.187:1111",
+  "basePath": "/",
+  "schemes": [
+    "http"
+  ],
+  "paths": {
+    "/createDomain": {
+      "post": {
+        "tags": [
+          "Supplychain"
+        ],
+        "description": "createDomain...",
+        "parameters": [
+          {
+            "name": "item1",
+            "in": "header",
+            "type": "string"
+          },
+          {
+            "name": "item2",
+            "in": "header",
+            "type": "string"
+          },
+          {
+            "name": "item3",
+            "in": "header",
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/allDomains/{id}": {
+      "get": {
+        "tags": [
+          "Supplychain"
+        ],
+        "description": "Get Domains...",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  }
+}

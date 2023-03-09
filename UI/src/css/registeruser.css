@@ -1,0 +1,246 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .login_page {
+    top: 181px;
+    left: 833px;
+    width: 374px;
+    height: 428px;
+    border: 1px solid #E1E1E1;
+    opacity: 1;
+    text-align: left;
+  
+  }
+  
+  .logo {
+    top: 75px;
+    left: 924px;
+    width: 192px;
+    height: 96px;
+    opacity: 1;
+    margin-left: 135px;
+    margin-top: 50px;
+  }
+  
+  .Group_img {
+    top: 0px;
+    left: 0px;
+    width: 676px;
+    height: 74 3px;
+    margin-left: -12.5px;
+  }
+  
+  
+  .logo1 {
+    top: 275px;
+    left: 89px;
+    width: 200px;
+    height: 63px;
+    opacity: 1;
+    margin-top: 250px;
+    margin-left: 20%;
+  }
+  
+  #user {
+    margin-left: 50px;
+    display: inline-block;
+  }
+  
+  .btn {
+    border: 2px solid rgba(255, 255, 255, 0.661);
+   color: #E1E1E1;
+   
+    
+    margin-left: 20%;
+  }
+  #welcome{
+    margin-left: 20%;
+    
+  }
+  #line4{
+    top: 381px;
+  left: 120px;
+  margin-left: 20%;
+  margin-bottom: 1%;
+  width: 456px;
+  height: 1px;
+  /* UI Properties */
+  background: transparent url('../images/Rectangle 4.png') 0% 0% no-repeat padding-box;
+  opacity: 0.68;
+  }
+  .intro {
+    color: white;
+    background: transparent;
+    /* text-align: center; */
+  }
+  
+  #para1 {
+    font-size: smaller;
+    text-align: left;
+    margin-left: 20%;
+  }
+  
+  .login_form {
+    margin-left: 50%;
+   height:790px;
+   border: 1px solid #E1E1E1;
+   width:90%;
+  
+
+ }
+  
+  .handle_login {
+    display: flex;
+  }
+  
+  #Admin {
+    margin-left: 120px;
+  }
+  
+  /* .container {
+    top: 13px;
+    left: 675px;
+    width: 100%;
+    height: 747px;
+    opacity: 1;
+    display: flex;
+  
+  } */
+  
+  .email_pass {
+    font-weight: bold;
+    margin-left: 40px;
+    margin-top: 5%;
+  }
+  
+  .login_page {
+    margin-left: 50px;
+    margin-top: 20px;
+    height: 420px;
+  }
+  
+  
+  
+  .password {
+    top: 376px;
+    left: 863px;
+    margin-top: 0.2%;
+    width: 80%;
+    margin-left: 10%;
+    height: 38px;
+    background: transparent 0% 0% no-repeat padding-box;
+    border: 1px solid #E1E1E1;
+    border-radius: 3px;
+    opacity: 1;
+  }
+  
+  #sign_in {
+    top: 441px;
+    left: 863px;
+    margin-left: 10%;
+    width: 80%;
+    background: transparent url('../images/Rectangle 2 copy 2.png') 0% 0% no-repeat padding-box;
+    height: 38px;
+    color:white;
+    margin-top: 15px;
+    background-size: cover;
+    border: 1px solid #E1E1E1;
+    /* border-radius: 3px; */
+    opacity: 1;
+  }
+  
+  /* #register_user {
+    margin-left: 90px;
+    display: inline-block;
+    width: 200px;
+    font-size: 14px;
+    font-family: Verlag, museo-sans, 'Helvetica Neue', Helvetica, Arial, sans-serif; 
+    background: transparent url('../images/Rectangle 2 copy 2.png') 0% 0% no-repeat padding-box;
+     color:rgb(5, 85, 117); 
+    background-color: rgba(19, 126, 169, 1);
+    font-weight: bold;
+    margin-top: 15px;
+  
+  } */
+  
+  #remember_me {
+    display: inline-block;
+    margin-top: 20px;
+  }
+  
+  #pills-home-tab {
+    color: black;
+    font-weight: bold;
+    margin-left: 30px;
+  }
+  
+  #pills-profile-tab {
+    color: black;
+    font-weight: bold;
+    margin-left: 180px;
+  }
+  
+  
+  .footer {
+    display: flex;
+    margin-left: 0px;
+    width: 200%;
+    margin-top: 10px;
+  }
+  
+  #cdac {
+    width: 80%;
+    margin-left: 1px;
+    margin-top: 10px;
+  }
+  
+  #sets {
+    width: 60%;
+    margin-left: 1px;
+  }
+  
+  #idrbt {
+    width: 60%;
+    margin-right: 10px;
+  }
+  
+  #iit_hyd {
+    width: 60%;
+    margin-left: 10px;
+  }
+  
+  #iit_logo {
+    width: 60%;
+    margin-left: 10px;
+    margin-top: 20px;
+  }
+  
+  #nic {
+    width: 60%;
+    margin-left: 10px;
+    margin-top: 20px;
+  }
+  
+  #digital_india {
+    width: 60%;
+    margin-left: 10px;
+    margin-top: 20px;
+  }
+  
+  .back {
+    margin-left: 75%;
+    margin-top: 5px;
+    width:30%;
+    cursor: pointer;
+  }
+  
+  .footer1 {
+    margin-left: 50px;
+    display: flex;
+  }
+  #logoo{
+    margin-left:150px ;
+  }
+  

@@ -1,0 +1,2 @@
+};
+shim.start(new Chaincode());

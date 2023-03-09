@@ -1,0 +1,11 @@
+* {
+  font-family: "Inter", sans-serif;
+}
+
+.header_footer_dist {
+  min-height: 95vh;
+}
+/* .footer {
+  height: 6vh;
+  flex-shrink: 0;
+} */

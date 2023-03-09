@@ -1,0 +1,29 @@
+.subHeader{
+        width: 100%;
+        background-color: white;
+        border-top: 1px solid #D6D6D6;
+        display: flex;
+        padding-left: 3.4%;
+        color: black;
+}
+.linkCss{
+        background-color: transparent;
+        height: 100%;
+        border: none;
+        display: flex;
+        align-items: center;
+        font-size: 12px;
+        margin-right: 28px;
+        font-weight: 600;
+        color: black;
+}
+#img{
+        margin-right: 5px;
+}
+.disableProps{
+        opacity: .5;
+}
+.enableProps{
+        opacity: 1;
+        border-bottom: 1px solid #137EA9;
+}

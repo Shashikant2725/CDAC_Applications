@@ -1,0 +1,12 @@
+{
+  "name": "swaggerautogen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "swagger.js",
+  "scripts": {
+    "start": "node index.js",
+    "swagger-autogen": "node swagger.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

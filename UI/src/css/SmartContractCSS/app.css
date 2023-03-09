@@ -1,0 +1,117 @@
+.app {
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 900px;
+  }
+  
+  
+  .search {
+    padding: 10px;
+    font-size: 20px;
+  }
+  
+  .list {
+    padding: 0;
+    list-style: none;
+    text-align: center;
+  }
+  
+  .listItem {
+    margin-bottom: 20px;
+    font-size: 25px;
+    color: #444;
+    font-weight: 300;
+  }
+  
+  table {
+    width: 100%;
+    margin: 50px 0px;
+    border-spacing: 15px;
+    color: #444;
+  }
+  
+  tr {
+    margin-bottom: 20px;
+  }
+  
+  th {
+    width: 250px;
+    text-align: left;
+    font-size: 20px;
+    /* background: transparent url('../../src/images/Rectangle\ 17479@2x.png') 0% 0% no-repeat padding-box; */
+    opacity: 1;
+  }
+  
+  td {
+    width: 25px;
+    font-size: 20px;
+  }
+  .styled-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    /* box-shadow: 0 0 20px rgba(0, 0, 0, 0.15); */
+    /* width: 100%; */
+    
+    margin-top: '-20%';
+}
+.styled-table thead tr {
+  background-color: #008CBA;
+  color: #ffffff;
+  text-align: left;
+  width: 25px;
+    text-align: left;
+    font-size: 18px;
+}
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+    width: 250px;
+    font-size: 16px;
+    text-align: center;
+    
+}
+.styled-table tbody tr {
+  border-bottom: 1px solid #dddddd;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+  background-color: #f3f3f3;
+}
+
+.styled-table tbody tr:last-of-type {
+  border-bottom: 2px solid #009879;
+}
+.styled-table tbody tr.active-row {
+  font-weight: bold;
+  color: #009879;
+}
+ /* .pagination {
+  display: inline-block;
+}
+
+.pagination a {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+} */
+
+.button {
+  border: none;
+  color: white;
+  /* padding: 15px 32px; */
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  /* margin: 4px 2px; */
+  cursor: pointer;
+}
+
+.button1 {background-color: #4CAF50;} /* Green */
+.button2 {background-color: #008CBA;} /* Blue */

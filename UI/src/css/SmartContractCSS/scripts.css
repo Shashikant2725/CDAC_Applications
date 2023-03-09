@@ -1,0 +1,135 @@
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans+TC:100,300,regular,500,700,900);
+/* *{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+} */
+
+/* body{
+    background-color: ghostwhite;
+} */
+.side-menu {
+  width: 20%;
+  height: 66%;
+  padding: 10px 0;
+  box-sizing: border-box;
+  /* background-image: linear-gradient(0deg, #575555, #363738); */
+  
+  background-color:transparent; 
+  display: flex;
+  flex-flow: column nowrap;
+  position: absolute;
+  transition: 0.5s;
+  /* margin-left: 1px; */
+  /* transform: translateX(0);   #3381b0,#87cefa */
+}
+
+
+/* .side-menu form{
+    display: flex;
+    margin: 0 10px 50px;
+    border-radius: 100px;
+    border: 1px solid #fff;
+
+} */
+/* .side-menu form input,
+.side-menu form button{
+    background-color: transparent;
+    color: #fff;
+    border:none;
+    padding:5px 10px;
+} */
+/* .side-menu form input{
+    width: 230px;
+} */
+/* .side-menu label{
+    position: absolute;
+    width: 40px;
+    height: 80px;
+    background-color: #000;
+    color: #fff;
+    right: -40px;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    line-height: 80px;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 0 10px 10px 0;
+} */
+/* #side-menu-switch{
+    position: absolute;
+    opacity: 0;
+} */
+#side-menu-switch:checked + .side-menu {
+  transform: translateX(-100%);
+}
+#side-menu-switch:checked + .side-menu label .fas {
+  transform: scaleX(-1);
+}
+
+.side-menu form input:focus::placeholder {
+  color: #ccc;
+}
+.side-menu form input:focus,
+.side-menu form button:focus {
+  outline: none;
+}
+
+
+.nav-style{
+  padding-left: 14px;
+  position: relative;
+  overflow: auto;
+  height: 90%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.check12{
+  margin-top: 2%;
+  font-size: 14px;
+  font-family: 900;
+  width: 100%;
+  height: 56px;
+  display: flex;
+  align-items: center;
+  color: white;
+  text-decoration: none;
+  border-radius: 11px 0px 0px 11px;
+}
+.check12 img{
+  margin-right: 5px;
+  margin-left: 3px;
+}
+
+.check12:hover{
+  color: black;
+  background-color: #ECF2F6;
+}
+#extraCss:hover{
+  background-color: red;
+}
+.sawtoothScriptcssLink{
+  width: 100%;
+  text-decoration: none;
+  height: 20%;
+  border-radius: 5px 0px 0px 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.sawtoothScriptcssLink:hover{
+  background-color: #ECF2F6;
+  color: black;
+}
+
+.sawtoothScriptcssanchor{
+  text-decoration: none;
+  color: white;
+}
+
+

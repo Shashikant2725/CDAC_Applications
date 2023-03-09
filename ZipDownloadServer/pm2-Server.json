@@ -1,0 +1,13 @@
+{
+  "apps": [
+    {
+      "name": "Template-Studio",
+      "script": "./newServer.js",
+      "exec_mode": "fork",
+      "instances": 1,
+      "node_args": "--max_old_space_size=8192"
+    }
+   
+   
+  ]
+  }

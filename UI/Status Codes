@@ -1,0 +1,74 @@
+//Auth server
+{
+" All input is required":1200
+"Please provide valid email address":1201
+"Please provide valid password":1202
+"Please provide valid role":1203
+"Please provide valid mobile number":1204
+"Please provide valid department name":1205
+"Please provide valid designation":1206
+"User already exist.Please login":1207
+"Could not save to database":1208
+"Token not saved":1209
+"Try-catch error":1210
+"Password incorrect":1211
+"Please contact your administrator":1212
+"Invalid Credentials":1213
+"AdminUser already exist.Please login":1214
+"Connector creation failed":1215
+"ConnectorId already exist":1216
+}
+
+
+
+{
+"App already exist.Please create a new one":	1400
+"App does not exist.Please create a new one":1401
+"App does not exist.":1402
+"User with specific appName not found":	1403
+"Cannot delete the application":	1404
+"App is deleting along with network":	1405
+"Platform does not exist.Please create a new one":	1406
+"Platform already exist":	1407
+"Error while updating user details":	1408
+"Error while updating from inuse_update function":	1409
+"Function is already in use please try after some time":	1410
+"Failed user regex validation,failed please check":	1411
+"Failed channel regex validation ,failed please check":	1412
+"Failed peer regex validation,failed please check":	1413
+"Failed orderer regex validation,failed please check":	1414
+"Failed ca regex validation,failed please check":	1415
+"Unknown error":	1416
+"Appname are not same for login and generate":	1417
+"All input is required":	1418
+"Could not save to database":	1419
+"Could not search from database":	1420
+"Try-catch error	":1421
+"A token is required for authentication":	1422
+"Invalid Token":	1423
+}
+
+{
+    
+"User token and email are not same":	1600
+"User with specific appName not found":	1601
+"Error while updating user details":	1602
+"Error while updating from inuse_update function":	1603
+"Function is already in use please try after some time":	1604
+"Regex validation failed":	1605
+"Generate function has not been called or the network is already up":	1606
+"Network is down":	1607
+"AppName are not same for login and generate":	1608
+"App does not exist.Please create a new one":	1609
+"App does not exist for the user":	1610
+"All input is required":	1611
+"Could not save to database":	1612
+"Could not search from database":	1613
+"User with specific appName not found":	1614
+"App does not exist.Please create a new one":	1615
+"Failed peer regex validation,failed please check":	1616
+"Failed orderer regex validation,failed please check":	1617
+"Failed ca regex validation,failed please check":	1618
+"Unknown error":	1619
+"Try-catch error":	1620
+}

@@ -1,0 +1,16 @@
+{
+  "name": "chaincodebundler",
+  "version": "1.0.0",
+  "description": "This Application is used by different Domain to generate Chaincode with Selected Functionality for Different Stakeholder",
+  "main": "Server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Satish Kumar Tigga",
+  "license": "MIT",
+  "dependencies": {
+    "adm-zip": "^0.5.9",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}

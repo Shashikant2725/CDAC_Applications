@@ -1,0 +1,6 @@
+﻿"FunctionName","Description","Version",
+"Acceptance of Delivery","The Acceptance Criteria are the specifications the Widgets must meet for Party A to comply with its requirements and obligations.","1.0.0",
+"Volume Discount","If goods value is more than first volume,seller is giving a discount % of firstrate.If goods value is in between first volume and second volume seller is giving a discount % ","1.0.0",
+"Late Delivery And Penalty","In case of delayed delivery Seller shall pay to Buyer for every day delay penalty amounting to 1% of the total value of the Equipment whose delivery has been delayed. ","1.0.0",
+"Manufacture Drug","Manufactures drug based on the disease that are associated with specific signs and symptoms","1.0.0",
+"Approve Drugs","Standard authority approves the drug based on the rules...","1.0.0",

@@ -1,0 +1,22 @@
+
+
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.button{
+    width:50%;
+    border: none;
+    color:#000000;
+    font-size: 15px;
+    font-weight: 1000;
+}
+
+.selectedbutton{
+    background-color: #ffffff;
+    border-top: 2px solid #137EA9;
+}
+
+.unselectedbutton{
+    background-color: #EFEFEF;
+}
